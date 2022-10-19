@@ -1,4 +1,4 @@
-### Hi there 👋
+### [Little web site with interesting stuff](https://guthi1.github.io/)
 
 <!--
 **guthi1/guthi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
