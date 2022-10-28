@@ -1,4 +1,4 @@
-## 🌱 Currntly doing a master degree in AI 🤖📊
+## 🌱 Currently doing a master degree in AI 🤖📊
 → [About me](https://guthi1.github.io/)
 
 <!--
