@@ -2,6 +2,6 @@ Hello! 👋 I'm Guillaume Thibault, a Software Engineer 💻  deeply passionate 
 
 I recently graduated 🎓 and am now working with Boreal Ventures 🧭, a Venture Capital firm that invests in the most promising science-based startups in Canada 🇨🇦!
 
-💻 Expertise: Software Engineering | Backend Developer | AI | Data Scientist 
+💻 Expertise: Software Engineering | Backend Developer | AI | Data Science | Little bit of Robotics | And some Finance
 
 🌐 To know more about me: [🔗 My Website](https://guthi1.github.io/)
