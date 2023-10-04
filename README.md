@@ -3,10 +3,10 @@ Hello! 👋 I'm Guillaume, a Software Engineer 💻 deeply passionate about leve
 
 I recently graduated 🎓 and am now working with Boreal Ventures 🧭, a Venture Capital firm that invests in the most promising science-based startups in Canada 🇨🇦!
 
-💻 Expertise: Software Engineering | Backend Developer | AI | Data Science | Little bit of Robotics | And some Finance
+💻 Expertise: Software Engineering | Backend Developer | AI | Data Science | Little bit of Robotics
 
 🌐 To know more about me: [🔗 My Website](https://guthi1.github.io/)
 
 ---
-#### Quick Link
+#### Quick link to interesting Github repositories 
 - [Top ML Papers of the Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
