@@ -10,3 +10,6 @@ I recently graduated 🎓 and am now working with Boreal Ventures 🧭, a Ventur
 ---
 #### Quick link to interesting Github repositories 
 - [Top ML Papers of the Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guthi1)](https://github.com/anuraghazra/github-readme-stats)
