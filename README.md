@@ -5,5 +5,5 @@
 </p>
 <p align="center">
 	<a href="https://latentdream.dev" target="_blank" >latentdream.dev</a> - 
-	<a href="https://artcommun.com" target="_blank" >artcommun.com</a>
+	<a href="https://www.artcommun.com" target="_blank" >artcommun.com</a>
 </p>
