@@ -4,6 +4,6 @@
     <strong>Recreational Programming</strong>
 </p>
 <p align="center">
-	<a href="https://latentdream.dev">latentdream.dev</a> - 
-	<a href="https://artcommun.com">artcommun.com</a> ← Coming Soon!
+	<a href="https://latentdream.dev" target="_blank" >latentdream.dev</a> - 
+	<a href="https://artcommun.com" target="_blank" >artcommun.com</a>
 </p>
