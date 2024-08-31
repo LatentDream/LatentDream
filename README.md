@@ -4,6 +4,6 @@
     <strong>On moment please...</strong>
 </p>
 <p align="center">
-	<a href="https://www.artcommun.com" target="_blank" >artcommun.com</a> - 
-	<a href="https://guillaume.sh/watson" target="_blank" >watson.ai</a>
+	<a href="https://guillaume.sh/watson" target="_blank" >watson.ai</a> -
+	<a href="https://latentdream.dev" target="_blank" >Latent Reflections</a>
 </p>
