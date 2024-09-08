@@ -5,5 +5,5 @@
 </p>
 <p align="center">
 	<a href="https://guillaume.sh/watson" target="_blank" >watson.ai</a> -
-	<a href="https://latentdream.dev" target="_blank" >reflections</a>
+	<a href="https://latent.blog" target="_blank" >reflections</a>
 </p>
